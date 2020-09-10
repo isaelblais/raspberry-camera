@@ -1,5 +1,5 @@
 ﻿
-A video player for Raspberry Pi camera in angular.
+A video player for Raspberry Pi camera in angular with very low latency.
 
 ![](https://github.com/isaelblais/Raspberry-Camera/blob/master/md/angular_client.PNG)
 
