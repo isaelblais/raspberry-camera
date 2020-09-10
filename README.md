@@ -1,6 +1,7 @@
 ﻿
 A video player for Raspberry Pi camera in angular.
-![](https://github.com/isaelblais/Raspberry-Camera.git/blob/master/md/angular_client.PNG)
+
+![](https://github.com/isaelblais/Raspberry-Camera/blob/master/md/angular_client.PNG)
 
 
 # Usage
