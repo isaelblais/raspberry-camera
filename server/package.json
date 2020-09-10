@@ -24,6 +24,7 @@
   ],
   "description": "A video player for Raspberry Pi camera in angular.",
   "dependencies": {
+    "expres": "^0.0.5",
     "debug": "^2.3.2",
     "stream-split": "^1.1.0",
     "sylvester.js": "^0.1.1"
