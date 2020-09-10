@@ -1,5 +1,5 @@
 ﻿/* eslint-disable no-console */
-const AvcServer = require('../lib/server')
+const AvcServer = require('./libs/server')
 const path = require('path')
 const http = require('http')
 const WebSocketServer = require('uws').Server
