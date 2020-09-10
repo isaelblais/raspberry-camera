@@ -1,0 +1,49 @@
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+html {
+  height: 100%;
+}
+
+body {
+	padding: 0;
+	margin: 0;
+  min-height: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Montserrat Regular', Arial, sans-serif;
+	font-weight:normal;
+	font-style:normal;
+	padding: 10px 20px;
+}
+
+/* #main-content {
+
+} */
+
+.main-container {
+	position: fixed;
+}
+
+.main-sidenav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 200px;
+	background: black;
+	color: white;
+}
+
+.main-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.main-footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}

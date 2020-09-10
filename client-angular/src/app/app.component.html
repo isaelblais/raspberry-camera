@@ -1,0 +1,24 @@
+<ng-container>
+  <mat-sidenav-container class="main-container" fullscreen>
+    <mat-sidenav #sidenav mode="side" opened class="main-sidenav"
+                 [fixedInViewport]="true" [fixedTopGap]="0"
+                 [fixedBottomGap]="0">
+      <ul>
+        <li>
+            <a [routerLink]="['/cameras']" class="btn btn-primary">Cameras</a>
+        </li>
+      </ul>
+    </mat-sidenav>
+    <mat-sidenav-content>
+      
+      <div id="main-content">
+
+          <router-outlet></router-outlet> 
+
+      </div>
+     
+    </mat-sidenav-content>
+  </mat-sidenav-container>
+
+  <mat-toolbar class="main-footer">Footer</mat-toolbar>
+</ng-container>

@@ -1,0 +1,40 @@
+/* Montserrat */
+@font-face {
+	font-family: "Montserrat Regular";
+	src: url("/assets/fonts/Montserrat-Regular.otf");
+}
+@font-face {
+	font-family: "Montserrat Thin";
+	src: url("/assets/fonts/Montserrat-Thin.otf");
+}
+@font-face {
+	font-family: "Montserrat Light";
+	src: url("/assets/fonts/Montserrat-Light.otf");
+}
+@font-face {
+	font-family: "Montserrat Bold";
+	src: url("/assets/fonts/Montserrat-Bold.otf");
+}
+@font-face {
+	font-family: "Montserrat Black";
+	src: url("/assets/fonts/Montserrat-Black.otf");
+}
+
+
+/* Istokweb */
+@font-face {
+	font-family: "IstokWeb Regular";
+	src: url("/assets/fonts/IstokWeb-Regular.otf");
+}
+@font-face {
+	font-family: "IstokWeb Italic";
+	src: url("/assets/fonts/IstokWeb-Italic.otf");
+}
+@font-face {
+	font-family: "IstokWeb BoldItalic";
+	src: url("/assets/fonts/IstokWeb-BoldItalic.otf");
+}
+@font-face {
+	font-family: "IstokWeb Bold";
+	src: url("/assets/fonts/IstokWeb-Bold.otf");
+}
